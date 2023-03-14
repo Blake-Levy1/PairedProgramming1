@@ -1,0 +1,15 @@
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.csproj.AssemblyReference.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.AssemblyInfoInputs.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.AssemblyInfo.cs
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.csproj.CoreCompileInputs.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/bin/Debug/net6.0/ThePairedProgramming
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/bin/Debug/net6.0/ThePairedProgramming.deps.json
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/bin/Debug/net6.0/ThePairedProgramming.runtimeconfig.json
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/bin/Debug/net6.0/ThePairedProgramming.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/bin/Debug/net6.0/ThePairedProgramming.pdb
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/refint/ThePairedProgramming.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.pdb
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ThePairedProgramming.genruntimeconfig.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/PairProgramming1/ThePairedProgramming/obj/Debug/net6.0/ref/ThePairedProgramming.dll
